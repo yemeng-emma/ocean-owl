@@ -1,6 +1,6 @@
 # ocean-owl
 Cross-sector collaboration in charitable trusts research project
-### Note on the "Thirsty tiger" project name
+### Note on the "ocean owl" project name
 
 Because project titles change all the time with revisions, rewriting,
 and peer review, we used [**codename**](http://svmiller.com/codename/)
