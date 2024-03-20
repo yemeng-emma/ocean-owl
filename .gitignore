@@ -1,3 +1,7 @@
+# Data and output
+/data
+/output
+
 # History files
 .Rhistory
 .Rapp.history
